@@ -8,7 +8,7 @@ a {
 	width: 205px;
 	text-align: center;
 }a:hover{
-	background-color: orange;
+	background-color: blue;
 }nav ul{
 	margin: 0px;
 	padding: 0px;
